@@ -1,4 +1,4 @@
-# Jonas Schmedtmann - Mapty
+# Pig Game
 
 ## Table of contents
 
@@ -8,6 +8,7 @@
   - [The Challenge](#the-challenge)
   - [Features](#features)
   - [Updates](#updates)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -41,6 +42,14 @@ My goal was to recreate Jonas' Pig Game from scratch and make some updates to it
 
 - Responsive Web Design across all Devices
 - Rolling Dice Functionality
+
+### Screenshots
+
+![screenshot1](./screenshots/Screenshot1.jpeg)
+![screenshot2](./screenshots/Screenshot2.jpeg)
+![screenshot3](./screenshots/Screenshot3.jpeg)
+![screenshot4](./screenshots/Screenshot4.jpeg)
+![screenshot5](./screenshots/Screenshot5.jpeg)
 
 ### Links
 
